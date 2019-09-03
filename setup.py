@@ -1,7 +1,7 @@
 
 from setuptools import setup
 
-setup(name='timeseries',
+setup(name='timeseries_nag',
       version='0.1',
       description='The funniest joke in the world',
       url='https://github.com/nageshsvs/timeseries/blob/master/time_series_nagesh.py',
